@@ -28,6 +28,7 @@ public class UserRequest {
         @NotEmpty
         private String password;
         //asdfasdfasdfasdf
+        //오늘 인증
     }
 
 }
