@@ -29,7 +29,7 @@ public class UserRequest {
         private String password;
         //asdfasdfasdfasdf
         //오늘 인증
-        //asdfasdfasdfa
+        //asdfasdfasdfagit
     }
 
 }
